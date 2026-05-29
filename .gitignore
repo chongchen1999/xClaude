@@ -1,0 +1,9 @@
+*
+!settings.json
+!CLAUDE.md
+!commands/
+!commands/**
+!themes/
+!themes/**
+!install.sh
+!.gitignore
