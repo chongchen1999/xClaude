@@ -1,9 +1,7 @@
-*
-!settings.json
-!CLAUDE.md
-!commands/
-!commands/**
-!themes/
-!themes/**
-!install.sh
-!.gitignore
+# OS / editor cruft
+.DS_Store
+*.swp
+*~
+
+# Claude Code local, machine-specific overrides — not for the repo
+settings.local.json
